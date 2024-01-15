@@ -1,10 +1,10 @@
 class PykeHooks < Formula
   include Language::Python::Virtualenv
 
-  desc "Shiny new formula"
+  desc "pyke_hooks"
   homepage ""
-  url "https://files.pythonhosted.org/packages/31/2d/9bfbac725d55fbac47d27bfaf7dc1c30217ef4d09f10a96371d4781b19ee/pyke_hooks-0.1.1.tar.gz"
-  sha256 "1cd94c45bc957f66af70426e436cef33297ec49ddbfbde9b4b30611c7fa58a6b"
+  url "https://files.pythonhosted.org/packages/5d/5d/f85b0c55021982ba81a4ba15662cf2e455f019bd5b177ec83fdf8c3065a3/pyke_hooks-0.1.2.tar.gz"
+  sha256 "9506409eaef2c72c9cd599621c43b044e096caf4f5a914b37e787a8b50bebee8"
 
   depends_on "python3"
 
